@@ -1,4 +1,4 @@
-# cpp-Exercises
+
 # C++ Programming Exercises  
 
 This repository contains a collection of **C++ exercises** that I have completed. Each exercise focuses on different programming concepts in C++.  
@@ -17,5 +17,5 @@ The exercises are organized into categories:
 3. Run and modify the code to practice and learn.  
 
 ## 📌 About  
-This repository is part of my learning journey in C++ programming. Feel free to explore and use these exercises for learning! 😊  
+This repository is part of my learning journey in C++ programming. Feel free to explore and use these exercises for learning!  
 
