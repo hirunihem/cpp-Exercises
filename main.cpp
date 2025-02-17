@@ -1,5 +1,5 @@
-//HIRUNI
-//08APRIL2022
+//author
+//date
 #include <iostream>
 
 using namespace std;
