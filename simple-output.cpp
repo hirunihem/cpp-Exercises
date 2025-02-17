@@ -14,4 +14,4 @@ int main()
     cout << "Total       :  1250.00           " << endl;
     cout << "=================================" << endl;
     return 0;
-}
+} 
